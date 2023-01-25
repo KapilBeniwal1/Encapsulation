@@ -10,6 +10,7 @@ public class Main {
     private int geekRoll;
     private int geekAge;
 
+
     // get method for age to access
     // private variable geekAge
     public int getAge() {
